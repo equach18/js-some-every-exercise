@@ -1,0 +1,1 @@
+# js-some-every-exercise
